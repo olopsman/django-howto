@@ -25,7 +25,7 @@ SECRET_KEY = ')*0)+=cu+2r(acp0x3z0#pnzt^v8!p4mic%4hcxlsgl%hw^x=+'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1','https://mysterious-tundra-35441.herokuapp.com']
 
 
 # Application definition
